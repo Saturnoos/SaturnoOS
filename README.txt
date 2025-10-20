@@ -1,0 +1,1 @@
+Hello, this is the README text file, at the moment i wont publish nothing, when the iso and the sha256 are ready i will upload it
